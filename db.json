@@ -1,141 +1,138 @@
 {
-  "membros": [
-    {
-      "name": "Diego",
-      "lastname": "Vinícius",
-      "email": "sdf@china",
-      "phone": "11111111",
-      "senha": "123",
-      "confSenha": "123",
-      "course": "cit",
-      "degree": "Mestrado",
-      "nivel": "Avançado",
-      "motivation": "Buscas na Internet",
-      "areas": [
-        "DSD",
-        "qwe"
-      ],
-      "id": 1
-    },
-    {
-      "name": "Davi",
-      "lastname": "Euclides",
-      "email": "adasdas@adsad",
-      "phone": "11111",
-      "senha": "345",
-      "confSenha": "345",
-      "course": "cit",
-      "degree": "Graduando",
-      "nivel": "Intermediário",
-      "motivation": "Buscas na Internet",
-      "areas": [
-        "DSD",
-        "qwe",
-        "qwqwqwqw"
-      ],
-      "id": 2
-    },
-    {
-      "name": "Diego",
-      "lastname": "Vinícius",
-      "email": "webradioufersapdf@gmail.com",
-      "phone": "22222",
-      "senha": "123",
-      "confSenha": "123",
-      "course": "11112",
-      "degree": "Graduado",
-      "nivel": "Intermediário",
-      "motivation": "Amigos",
-      "areas": [
-        "2131312",
-        "213123"
-      ],
-      "id": 3
-    },
-    {
-      "name": "asdasd",
-      "lastname": "asdasd",
-      "email": "a@gmail.com",
-      "phone": "111",
-      "senha": "213",
-      "confSenha": "123",
-      "course": "SDSDSD",
-      "degree": "Graduado",
-      "nivel": "Intermediário",
-      "motivation": "Redes Sociais",
-      "areas": [
-        "qweq",
-        ""
-      ],
-      "id": 4
-    },
-    {
-      "name": "Maria",
-      "lastname": "Teste",
-      "email": "servidor@gmail.com",
-      "phone": "111",
-      "senha": "213",
-      "confSenha": "123",
-      "course": "SDSDSD",
-      "degree": "Graduado",
-      "nivel": "Intermediário",
-      "motivation": "Redes Sociais",
-      "areas": [
-        "qweq",
-        "qqqq"
-      ],
-      "id": 5
-    },
-    {
-      "name": "ANA",
-      "lastname": "anana",
-      "email": "asda@gmail.com",
-      "phone": "123",
-      "senha": "qwe",
-      "confSenha": "123",
-      "course": "asd",
-      "degree": "Doutorado",
-      "nivel": "Básico",
-      "motivation": "Amigos",
-      "areas": [
-        "s"
-      ],
-      "id": 6
-    }
-  ],
-  "videosHist": [
-    {
-      "name": "História das Redes de Computadores - Hardware Redes Brasil",
-      "video": "4aTvbFbOJmA",
-      "featured": true
-    },
-    {
-      "name": "Teste",
-      "video": "4aTvbFbOJmA",
-      "featured": false
-    }
-  ],
-  "matHome": [
-    {
-      "name": "Arquiteturas de Redes",
-      "image": "images/home/redes3.jpg",
-      "situation": "em andamento",
-      "featured": true,
-      "description": "Rede de computadores ou Rede de dados, na informática e na telecomunicação é um conjunto de de dois ou mais dispositivos eletrônicos de computação (ou módulos processadores ou nós da rede) interligados por um sistema de comunicação digital (ou link de dados), guiados por um conjunto de regras (protocolo de rede) para compartilhar entre si informação, serviços e, recursos físicos e lógicos. Estes podem ser do tipo: dados, impressoras, mensagens (e-mails), entre outros. As conexões podem ser estabelecidas usando mídia de cabo ou mídia sem fio."
-    },
-    {
-      "name": "Controle físico e lógico de ambientes",
-      "image": "images/home/redes2.jpg",
-      "situation": "em andamento",
-      "featured": true,
-      "description": "Os dispositivos integrantes de uma rede de computadores, que roteiam e terminam os dados, são denominados de “nós de rede” (ponto de conexão), que podem incluir hosts, como: computadores pessoais, telefones, servidores, e também hardware de rede. Dois desses dispositivos podem ser ditos em “rede” quando um dispositivo é capaz de trocar informações com o outro dispositivo, quer eles tenham ou não uma conexão direta entre si. O controle desses dispositivos é realizado por meio de software agindo sobre a rede."
-    },
-    {
-      "name": "Variedade de equipamentos",
-      "image": "images/home/redes1.jpg",
-      "situation": "em andamento",
-      "featured": false,
-      "description": "..."
-    }
-  ]
+    "membros": [{
+            "name": "Diego",
+            "lastname": "Vinícius",
+            "email": "sdf@china",
+            "phone": "11111111",
+            "senha": "123",
+            "confSenha": "123",
+            "course": "cit",
+            "degree": "Mestrado",
+            "nivel": "Avançado",
+            "motivation": "Buscas na Internet",
+            "areas": [
+                "DSD",
+                "qwe"
+            ],
+            "id": 1
+        },
+        {
+            "name": "Davi",
+            "lastname": "Euclides",
+            "email": "adasdas@adsad",
+            "phone": "11111",
+            "senha": "345",
+            "confSenha": "345",
+            "course": "cit",
+            "degree": "Graduando",
+            "nivel": "Intermediário",
+            "motivation": "Buscas na Internet",
+            "areas": [
+                "DSD",
+                "qwe",
+                "qwqwqwqw"
+            ],
+            "id": 2
+        },
+        {
+            "name": "Diego",
+            "lastname": "Vinícius",
+            "email": "webradioufersapdf@gmail.com",
+            "phone": "22222",
+            "senha": "123",
+            "confSenha": "123",
+            "course": "11112",
+            "degree": "Graduado",
+            "nivel": "Intermediário",
+            "motivation": "Amigos",
+            "areas": [
+                "2131312",
+                "213123"
+            ],
+            "id": 3
+        },
+        {
+            "name": "asdasd",
+            "lastname": "asdasd",
+            "email": "a@gmail.com",
+            "phone": "111",
+            "senha": "213",
+            "confSenha": "123",
+            "course": "SDSDSD",
+            "degree": "Graduado",
+            "nivel": "Intermediário",
+            "motivation": "Redes Sociais",
+            "areas": [
+                "qweq",
+                ""
+            ],
+            "id": 4
+        },
+        {
+            "name": "Maria",
+            "lastname": "Teste",
+            "email": "servidor@gmail.com",
+            "phone": "111",
+            "senha": "213",
+            "confSenha": "123",
+            "course": "SDSDSD",
+            "degree": "Graduado",
+            "nivel": "Intermediário",
+            "motivation": "Redes Sociais",
+            "areas": [
+                "qweq",
+                "qqqq"
+            ],
+            "id": 5
+        },
+        {
+            "name": "ANA",
+            "lastname": "anana",
+            "email": "asda@gmail.com",
+            "phone": "123",
+            "senha": "qwe",
+            "confSenha": "123",
+            "course": "asd",
+            "degree": "Doutorado",
+            "nivel": "Básico",
+            "motivation": "Amigos",
+            "areas": [
+                "s"
+            ],
+            "id": 6
+        }
+    ],
+    "videosHist": [{
+            "name": "História das Redes de Computadores - Hardware Redes Brasil",
+            "video": "4aTvbFbOJmA",
+            "featured": true
+        },
+        {
+            "name": "Teste",
+            "video": "4aTvbFbOJmA",
+            "featured": false
+        }
+    ],
+    "matHome": [{
+            "name": "Arquiteturas de Redes",
+            "image": "images/home/redes3.jpg",
+            "situation": "em andamento",
+            "featured": true,
+            "description": "Rede de computadores ou Rede de dados, na informática e na telecomunicação é um conjunto de de dois ou mais dispositivos eletrônicos de computação (ou módulos processadores ou nós da rede) interligados por um sistema de comunicação digital (ou link de dados), guiados por um conjunto de regras (protocolo de rede) para compartilhar entre si informação, serviços e, recursos físicos e lógicos. Estes podem ser do tipo: dados, impressoras, mensagens (e-mails), entre outros. As conexões podem ser estabelecidas usando mídia de cabo ou mídia sem fio."
+        },
+        {
+            "name": "Controle físico e lógico de ambientes",
+            "image": "images/home/redes2.jpg",
+            "situation": "em andamento",
+            "featured": true,
+            "description": "Os dispositivos integrantes de uma rede de computadores, que roteiam e terminam os dados, são denominados de “nós de rede” (ponto de conexão), que podem incluir hosts, como: computadores pessoais, telefones, servidores, e também hardware de rede. Dois desses dispositivos podem ser ditos em “rede” quando um dispositivo é capaz de trocar informações com o outro dispositivo, quer eles tenham ou não uma conexão direta entre si. O controle desses dispositivos é realizado por meio de software agindo sobre a rede."
+        },
+        {
+            "name": "Variedade de equipamentos",
+            "image": "images/home/redes1.jpg",
+            "situation": "em andamento",
+            "featured": false,
+            "description": "..."
+        }
+    ]
 }
